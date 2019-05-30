@@ -1,19 +1,16 @@
-| **Build** | **Coverage** | **Godoc** | **Go report** | **License** |
-|-----------|--------------|-----------|---------------|-------------|
-| [![Build Status](https://travis-ci.org/auth0-community/go-auth0.svg?branch=master)](https://travis-ci.org/auth0-community/go-auth0) | [![Coverage Status](https://coveralls.io/repos/github/auth0-community/go-auth0/badge.svg?branch=master)](https://coveralls.io/github/auth0-community/go-auth0?branch=master) | [![GoDoc](https://godoc.org/github.com/auth0-community/go-auth0?status.png)](https://godoc.org/github.com/auth0-community/go-auth0) | [![Report Cart](http://goreportcard.com/badge/auth0-community/go-auth0)](http://goreportcard.com/report/auth0-community/go-auth0) | [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE) |
-# Go-Auth0
-<img src="https://img.shields.io/badge/community-driven-brightgreen.svg"/> <br>
+[![GoDoc](https://godoc.org/github.com/auth0-community/go-auth0?status.png)](https://godoc.org/github.com/auth0-community/go-auth0)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
-go-auth0 is a package helping to authenticate using the [Auth0](https://auth0.com) service.
+# auth0
 
-This repo is supported and maintained by Community Developers, not Auth0. For more information about different support levels check https://auth0.com/docs/support/matrix .
+auth0 is a package helping to authenticate using the [Auth0](https://auth0.com) service.
 
 ## Getting started
 
 ### Installation
 
 ```
-go get github.com/auth0-community/go-auth0
+go get github.com/LoungeBuddy/go-auth0
 ```
 
 ## Usage
